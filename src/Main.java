@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello");
         System.out.println("buralarda c den birseyler yaziyorum");
+        System.out.println("buralarda c den birseyler yaziyorum 2");
     }
 }
